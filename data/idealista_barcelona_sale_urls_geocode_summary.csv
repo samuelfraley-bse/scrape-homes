@@ -1,0 +1,8 @@
+metric,count,share_of_properties
+properties_pulled,10619,1.0
+rows_with_address_candidates,10584,0.996704021094265
+rows_with_street_number_addresses,1174,0.11055654958093983
+rows_eligible_for_geocoding,1174,0.11055654958093983
+rows_with_lat_lon,214,0.020152556737922593
+unique_eligible_queries,884,0.08324701007627837
+unique_queries_with_lat_lon,150,0.014125623881721443

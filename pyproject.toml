@@ -1,0 +1,20 @@
+[project]
+name = "scrape-idealista"
+version = "0.1.0"
+description = "Selenium notebooks for scraping Idealista Barcelona housing listings for research."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.0",
+    "ipykernel>=6.29.0",
+    "jupyterlab>=4.2.0",
+    "lxml>=5.2.0",
+    "notebook>=7.2.0",
+    "pandas>=2.2.0",
+    "plotly>=6.7.0",
+    "selenium>=4.20.0",
+    "tqdm>=4.66.0",
+    "undetected-chromedriver>=3.5.5",
+    "webdriver-manager>=4.0.0",
+]
+

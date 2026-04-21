@@ -1,0 +1,885 @@
+query,lat,lon,display_name,importance,osm_type,osm_id,geocode_status,geocoded_at
+"Actor Morano, 2 -4, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",41.4135525,2.1055429,"Carrer de l'Actor Morano, Vallvidrera, Vallvidrera, el Tibidabo i les Planes, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08017, España",0.0534176905470359,way,385049144,found,2026-04-21T09:30:31.286925+00:00
+"Amargos, 15, El Gòtic, Barcelona, Spain",41.38643,2.1740882,"15, Carrer d'Amargós, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,6291115155,found,2026-04-21T09:30:33.432738+00:00
+"Antic De Valencia, 99, El Poblenou, Barcelona, Spain",41.4067706,2.2038567,"Camí Antic de València, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",0.07194870560319186,way,27729311,found,2026-04-21T09:30:35.671081+00:00
+"Av Republica Argentina, 94, Vallcarca i els Penitents, Barcelona, Spain",41.4108418,2.1457462,"94, Avinguda de la República Argentina, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08023, España",8.435721370255616e-05,node,11449405154,found,2026-04-21T09:30:37.437421+00:00
+"Av. Sant Ramon Nonat, 11, La Maternitat i Sant Ramon, Barcelona, Spain",41.376721,2.1167287,"11-13, Avinguda de Sant Ramon Nonat, Sant Ramon, la Maternitat i Sant Ramon, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08904, España",8.435721370255616e-05,node,12039924923,found,2026-04-21T09:30:39.232608+00:00
+"Avenida Diagonal, 32, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:42.977992+00:00
+"Avenida Diagonal, 325, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:45.217446+00:00
+"Avenida Diagonal, 339, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:47.439660+00:00
+"Avenida Diagonal, 351, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:49.502581+00:00
+"Avenida Diagonal, 358, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:51.625572+00:00
+"Avenida Diagonal, 480, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:53.900504+00:00
+"Avenida Diagonal, 523, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:56.041379+00:00
+"Avenida Diagonal, 594, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:30:58.829585+00:00
+"Avenida Mas Fuster, 144, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:01.646689+00:00
+"Avenida Meridiana, 186, El Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:03.717579+00:00
+"Avenida Meridiana, 580, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:05.730876+00:00
+"Avenida Meridiana, 80, El Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:07.600369+00:00
+"Avenida Pau Casals, 22, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:09.364188+00:00
+"Avenida Pau Casals, 22, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:11.143403+00:00
+"Avenida Rasos de Peguera, 77, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:13.415235+00:00
+"Avenida Vallcarca, 34, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:15.242494+00:00
+"Avenida d'Eduard Maristany, 7, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:17.018549+00:00
+"Avenida d'Icària, 144, La Vila Olímpica del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:18.806138+00:00
+"Avenida d'Icària, 168, La Vila Olímpica del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:20.867500+00:00
+"Avenida de Josep Tarradellas, 157, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:23.005225+00:00
+"Avenida de Madrid, 171, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:25.438956+00:00
+"Avenida de Madrid, 191, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:27.737986+00:00
+"Avenida de Pearson, 64, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:29.985466+00:00
+"Avenida de Pedralbes, 66, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:31.881260+00:00
+"Avenida de Roma, 133, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:34.766015+00:00
+"Avenida de Sarrià, 138, Les Tres Torres, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:37.468114+00:00
+"Avenida de Sarrià, 30, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:39.680679+00:00
+"Avenida de Sarrià, 52, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:41.846448+00:00
+"Avenida de Sarrià, 86, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:43.819819+00:00
+"Avenida de Vallbona, 23, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:46.314773+00:00
+"Avenida de la Mare de Déu de Montserrat, 175, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:48.522237+00:00
+"Avenida de la Mare de Déu de Montserrat, 71, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:50.783814+00:00
+"Avenida de la República Argentina, 1, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:52.666645+00:00
+"Avenida de la República Argentina, 250, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:56.062264+00:00
+"Avenida de la República Argentina, 258, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:58.009828+00:00
+"Avenida de la Riera de Cassoles, 43, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:31:59.926129+00:00
+"Avenida del Coll del Portell, 102, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:02.230677+00:00
+"Avenida del Coll del Portell, 67, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:04.050038+00:00
+"Avenida del Jordà, 31, Sant Genís Dels Agudells - Montbau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:05.637867+00:00
+"Avenida del Paral·lel, 185, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:07.517632+00:00
+"Avenida del Paral·lel, 48, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:09.676291+00:00
+"Avenida del Tibidabo, 50, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:11.949823+00:00
+"Avenida dels Rasos de Peguera, 132, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:13.735586+00:00
+"Avenida dels Rasos de Peguera, 214, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:15.653807+00:00
+"Avenida dels Rasos de Peguera, 65, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:17.417574+00:00
+"Avenida dels Rasos de Peguera, 82, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:19.227388+00:00
+"Avenida dels Rasos de Peguera, 93, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:20.933145+00:00
+"Avenida dels Rasos de Peguera, 94, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:22.797345+00:00
+"Avenida mare de deu del port, 403, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:25.032355+00:00
+"Avinguda Diagonal, 358, La Dreta de l'Eixample, Barcelona, Spain",41.3998714,2.1719306,"358, Avinguda Diagonal, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",8.435721370255616e-05,node,6302916968,found,2026-04-21T09:32:27.191480+00:00
+"Baixada de Sant Miquel, 1, El Gòtic, Barcelona, Spain",41.3814073,2.1765489,"Alba, 1, Baixada de Sant Miquel, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,6064353261,found,2026-04-21T09:32:28.903232+00:00
+"Baixada de Sant Miquel, 2, El Gòtic, Barcelona, Spain",41.3813935,2.1766415,"2, Baixada de Sant Miquel, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,6064402677,found,2026-04-21T09:32:30.581051+00:00
+"Baixada de Viladecols, 2, El Gòtic, Barcelona, Spain",41.3820685,2.179374,"2, Baixada de Viladecols, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,11946923211,found,2026-04-21T09:32:32.698613+00:00
+"Baixada de la Glòria, 1, Vallcarca i els Penitents, Barcelona, Spain",41.4102712,2.1473344,"1, Baixada de la Glòria, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08023, España",8.435721370255616e-05,node,11462338925,found,2026-04-21T09:32:34.315365+00:00
+"Bajos, Pg. del Taulat, 279, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:36.017773+00:00
+"Bv-1462, Sarrià, Barcelona, Spain",41.4063542,2.114496,"Avinguda de Vallvidrera, Sarrià, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08017, España",0.0534176905470359,way,450219496,found,2026-04-21T09:32:38.546875+00:00
+"C-31, La Font de la Guatlla, Barcelona, Spain",41.3690228,2.1411607,"Gran Via de les Corts Catalanes, la Font de la Guatlla, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",0.4536252297026014,way,285182796,found,2026-04-21T09:32:40.214603+00:00
+"CL Ali Bei, 29, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:42.190735+00:00
+"CL Ample, 17, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:43.797479+00:00
+"CL Arago, 86, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:45.867207+00:00
+"CL Bac De Roda, 120, Provençals del Poblenou, Barcelona, Spain",41.4111208,2.1992447,"Carrer de Bac de Roda, Provençals del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08020, España",0.0534176905470359,way,1409584596,found,2026-04-21T09:32:47.917572+00:00
+"CL Bertran, 92, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:50.082095+00:00
+"CL Cantabria, 18, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:51.864459+00:00
+"CL Carders, 45, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:53.504835+00:00
+"CL Castillejos, 265, La Sagrada Família, Barcelona, Spain",41.4082175,2.1760591,"Carrer de los Castillejos, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08025, España",0.0534176905470359,way,263405142,found,2026-04-21T09:32:56.003506+00:00
+"CL Cervantes, 5, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:32:58.254541+00:00
+"CL Codols, 1, El Gòtic, Barcelona, Spain",41.3796759,2.1781087,"Carrer dels Còdols, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",0.0534176905470359,way,4747015,found,2026-04-21T09:33:00.057462+00:00
+"CL Coll I Vehi, 118, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:02.305623+00:00
+"CL Doctor Aiguader, 1, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:04.389344+00:00
+"CL Esteve Terradas, 33, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:06.192731+00:00
+"CL Fastenrath, 191, El Carmel, Barcelona, Spain",41.4218046,2.1525388,"Carrer de Fastenrath, el Carmel, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",0.0534176905470359,way,281259645,found,2026-04-21T09:33:08.378269+00:00
+"CL Ferrer Bassa, 35, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:11.187923+00:00
+"CL Garcia Faria, 75, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:14.319650+00:00
+"CL Girona, 118, La Dreta de l'Eixample, Barcelona, Spain",41.3971412,2.1680541,"Carrer de Girona, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08009, España",0.0534176905470359,way,1112883651,found,2026-04-21T09:33:17.396301+00:00
+"CL Gran De Sant Andreu, 394, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:19.764438+00:00
+"CL Grassot, 39, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:21.643685+00:00
+"CL Grau I Torras, 47, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:23.338830+00:00
+"CL Joaquin Costa, 59, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:26.478552+00:00
+"CL Juan De Garay, 37, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:28.726487+00:00
+"CL Llull, 350, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",41.4062507,2.2090863,"Carrer de Llull, Diagonal Mar i el Front Marítim del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",0.0534176905470359,way,237927197,found,2026-04-21T09:33:30.677967+00:00
+"CL Lluçanes, 6, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:33.637371+00:00
+"CL Maria Cubi, 94, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:35.359128+00:00
+"CL Marina, 334, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:37.915578+00:00
+"CL Mora d'Ebre, 9, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:39.865750+00:00
+"CL Muntaner, 206, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",41.3918206,2.1525633,"Carrer de Muntaner, l'Antiga Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08036, España",0.2713361062662927,way,1409652520,found,2026-04-21T09:33:41.707999+00:00
+"CL Muntaner, 407, Sant Gervasi - Galvany, Barcelona, Spain",41.3998679,2.1418654,"Carrer de Muntaner, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08021, España",0.2713361062662927,way,37067695,found,2026-04-21T09:33:43.556068+00:00
+"CL Padilla, 164, El Fort Pienc, Barcelona, Spain",41.401396,2.1828397,"Carrer de Padilla, el Fort Pienc, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",0.0534176905470359,way,1177205429,found,2026-04-21T09:33:46.278421+00:00
+"CL Pau Alsina, 42, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:48.098396+00:00
+"CL Puigmarti, 34, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:49.801357+00:00
+"CL Rocafort, 244, La Nova Esquerra de l'Eixample, Barcelona, Spain",41.3822149,2.1496135,"Carrer de Rocafort, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08029, España",0.0534176905470359,way,1226819175,found,2026-04-21T09:33:51.916048+00:00
+"CL Sagues, 16, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:54.332758+00:00
+"CL Sant Antoni Maria Claret, 31, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:57.081622+00:00
+"CL Sant Pere Mes Alt, 59, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:33:59.393561+00:00
+"CL Santa Albina, 47, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:01.168423+00:00
+"CL Santa Carolina, 50, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:03.434339+00:00
+"CL Serra, 19, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:05.290637+00:00
+"CL Sugranyes, 109, Sants - Badal, Barcelona, Spain",41.3708788,2.131034,"Carrer de Sugranyes, Sants-Badal, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08903, España",0.05339688181887538,way,1445901118,found,2026-04-21T09:34:07.138792+00:00
+"CL Tajo, 55, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:09.587160+00:00
+"CL Valencia, 180, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",41.3898827,2.1596137,"Carrer de València, l'Antiga Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",0.0534176905470359,way,238324885,found,2026-04-21T09:34:11.864379+00:00
+"CL Ventura Plaja, 33, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:14.204571+00:00
+"CL Via Augusta, 339, Sarrià, Barcelona, Spain",41.3978034,2.1272508,"Via Augusta, les Tres Torres, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08034, España",0.3047903492217065,way,450200073,found,2026-04-21T09:34:16.483406+00:00
+"Calle 2, Vila de Gràcia, Barcelona, Spain",41.4031783,2.1571662,"la Vila de Gràcia, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08012, España",0.4548351038280619,relation,4140187,found,2026-04-21T09:34:18.690164+00:00
+"Calle 26 de Gener de 1641, Hostafrancs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:20.554068+00:00
+"Calle 26 de Gener de 1641, La Bordeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:22.281914+00:00
+"Calle Alcalde de Zalamea, 6, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:24.029165+00:00
+"Calle Alcoi, 21, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:25.854750+00:00
+"Calle Alegre de Dalt, 29, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:28.337724+00:00
+"Calle Almirall Churruca, 9, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:30.066743+00:00
+"Calle Amics, 12, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:31.843610+00:00
+"Calle Anselm Clavé, 77, Barcelona, Spain",41.2200047,1.7253878,"Carrer Josep Anselm Clavé, Eixample de Mar, Barri de Mar, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,279165455,found,2026-04-21T09:34:33.636296+00:00
+"Calle Antonio Ricardos, 20, La Sagrera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:35.498026+00:00
+"Calle Arenys y Pluto, 109, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:38.271021+00:00
+"Calle Bac de Roda, 81, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:40.378688+00:00
+"Calle Bernat Bransi, 48, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:42.144962+00:00
+"Calle Bernat Bransi, 58, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:43.816230+00:00
+"Calle Bohemis, 19, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:45.438243+00:00
+"Calle Cartagena, 255, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:47.878293+00:00
+"Calle Castillejos, 371, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:49.805159+00:00
+"Calle Comtal, 32, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:51.551390+00:00
+"Calle Consell de Cent, 472, El Fort Pienc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:53.307017+00:00
+"Calle Córcega, 331, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:55.126490+00:00
+"Calle Daoiz i Velarde, 4, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:57.717482+00:00
+"Calle De Los Ferrocarriles Catalanes, 21, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:34:59.925338+00:00
+"Calle De Sant Joan, 2, Barcelona, Spain",41.2237597,1.7175757,"Carrer de l'Aigua, Sant Joan, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,1253267702,found,2026-04-21T09:35:01.968422+00:00
+"Calle Doctor Valls, 20, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:04.412685+00:00
+"Calle Emilia Coranty, 27 I, Provençals del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:06.123940+00:00
+"Calle Felip II, 114, La Sagrera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:07.900304+00:00
+"Calle Fernando Pessoa, 20, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:10.850286+00:00
+"Calle Ferrocarrils Catalans, 6, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:12.599956+00:00
+"Calle Gran de Gràcia, 166, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:14.812092+00:00
+"Calle Gran de Sant Andreu, 45, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:17.399586+00:00
+"Calle Gíriti, Barcelona, 1, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:19.049490+00:00
+"Calle Independencia, 288, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:21.532598+00:00
+"Calle Industria, 252, Barcelona, Spain",41.2238978,1.7247698,"Avinguda de Francesc Macià, Centrevila, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,111826585,found,2026-04-21T09:35:23.315612+00:00
+"Calle Mallorca, 234, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:25.432345+00:00
+"Calle Mare de Déu de les Neus, 72, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:28.612236+00:00
+"Calle Marià Aguiló, 90, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:30.389128+00:00
+"Calle Martin Luther King 39, 47, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:33.565036+00:00
+"Calle Maternitat D’elna, 3, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:35.498681+00:00
+"Calle Miquel Tort, 6, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:37.864389+00:00
+"Calle Mossen Camill Rosell, 48, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:39.759354+00:00
+"Calle Murcia, 22, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:41.733000+00:00
+"Calle Nou Pins, 3, La Prosperitat, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:43.584953+00:00
+"Calle Nou de Sant Francesc, 2, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:45.569594+00:00
+"Calle Nou de Sant Francesc, 4, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:47.725158+00:00
+"Calle Nou de la Rambla, 122, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:50.232833+00:00
+"Calle Nou de la Rambla, 128, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:52.400004+00:00
+"Calle Nou de la Rambla, 40, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:54.970058+00:00
+"Calle Nou de la Rambla, 6, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:57.459857+00:00
+"Calle President Lluís Companys, 22, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:35:59.274688+00:00
+"Calle Progrés, 179, Barcelona, Spain",41.2256203,1.7256372,"Carrer dels Caputxins, Centrevila, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,151049158,found,2026-04-21T09:36:02.365850+00:00
+"Calle Pujades, 231, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:04.225574+00:00
+"Calle Puríssima concepción, 5, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:05.905748+00:00
+"Calle Rocafort, 167, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:07.893315+00:00
+"Calle Romaninar, 14, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:09.663057+00:00
+"Calle Sant Gervasi de Cassoles, 99, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:11.389317+00:00
+"Calle Sant Pau, 17, Barcelona, Spain",41.2262545,1.7259697,"Carrer de Sant Pau, Centrevila, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,281908692,found,2026-04-21T09:36:13.777039+00:00
+"Calle Sant Pau, 17, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:15.973860+00:00
+"Calle Sant Sebastià, 6, Barcelona, Spain",41.2237755,1.7265653,"Carrer de Sant Sebastià, Centrevila, Vilanova i la Geltrú, Garraf, Barcelona, Catalunya, 08800, España",0.05339644693675132,way,97896769,found,2026-04-21T09:36:17.785529+00:00
+"Calle Santa Teresa, 15, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:20.443067+00:00
+"Calle Santaló, 143, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:22.343582+00:00
+"Calle Sardenya, 350, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:25.021929+00:00
+"Calle Selva, 13, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:27.031975+00:00
+"Calle Tallers, 55, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:29.563607+00:00
+"Calle Teodoro Llorente, 19, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:31.851144+00:00
+"Calle Torre D´en Damians, 16, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:33.565701+00:00
+"Calle Torre D´en Damians, 16, Hostafrancs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:35.422381+00:00
+"Calle Varsovia, 55, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:37.410077+00:00
+"Calle Viladomat, 15, Sant Antoni, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:39.630477+00:00
+"Calle angli, 4, Les Tres Torres, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:41.466873+00:00
+"Calle d'Alcúdia, 32, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:43.570355+00:00
+"Calle d'Alexandre de Torrelles, 28, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:46.158460+00:00
+"Calle d'Alfons XII, 10, Sant Gervasi - Galvany, Barcelona, Spain",41.3987373,2.1493218,"Carrer d'Alfons XII, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08006, España",0.0534176905470359,way,49844253,found,2026-04-21T09:36:49.116218+00:00
+"Calle d'Alfons el Magnànim, 77, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:50.909164+00:00
+"Calle d'Amílcar, 215, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:52.770065+00:00
+"Calle d'Anglí, 15, Les Tres Torres, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:54.468551+00:00
+"Calle d'Aragó, 229, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:36:58.335480+00:00
+"Calle d'Aragó, 386, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:00.591153+00:00
+"Calle d'Aragó, 532, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:03.210240+00:00
+"Calle d'Aragó, 66, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:05.425203+00:00
+"Calle d'Aribau, 177, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:07.975673+00:00
+"Calle d'Aribau, 72, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:09.722836+00:00
+"Calle d'Arquímedes, 2, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:12.900220+00:00
+"Calle d'Ausiàs Marc, 19, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:15.059663+00:00
+"Calle d'Avellà, 5, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:16.792572+00:00
+"Calle d'Avellà, 6, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:18.599684+00:00
+"Calle d'Avinyó, 19, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:20.624239+00:00
+"Calle d'Avinyó, 4, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:22.550570+00:00
+"Calle d'Eduard Toda, 62, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:24.488478+00:00
+"Calle d'En Botella, 8, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:26.255595+00:00
+"Calle d'En Robador, 10, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:28.037247+00:00
+"Calle d'En Robador, 39, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:29.791636+00:00
+"Calle d'En Robador, 6, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:31.571150+00:00
+"Calle d'En Tarròs, 9, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:33.314966+00:00
+"Calle d'Enric Granados, 125, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:35.270814+00:00
+"Calle d'Ercilla, 46, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:37.233705+00:00
+"Calle d'Escornalbou, 6, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:38.855473+00:00
+"Calle d'Escudellers Blancs, 8, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:40.775177+00:00
+"Calle d'Escòcia, 93, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:43.156260+00:00
+"Calle d'Espronceda, 48 -58, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:45.986402+00:00
+"Calle d'Europa, 26, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:48.201747+00:00
+"Calle d'Hercegovina, 31, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:50.280344+00:00
+"Calle d'Obradors, 22, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:52.087661+00:00
+"Calle d'Olesa, 22, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:53.962178+00:00
+"Calle d'Olzinelles, 10, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:55.776678+00:00
+"Calle d'en Copons, 2, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:37:59.224953+00:00
+"Calle d'en Quintana, 9, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:01.918674+00:00
+"Calle d'en Santcliment, 10, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:04.038568+00:00
+"Calle d'en Serra, 11, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:05.869221+00:00
+"Calle de Bailèn, 2, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:07.783243+00:00
+"Calle de Bailèn, 207, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:09.734593+00:00
+"Calle de Bailèn, 210, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:12.213365+00:00
+"Calle de Balmes, 157, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:14.616195+00:00
+"Calle de Balmes, 317, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:16.589811+00:00
+"Calle de Balmes, 341, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:19.417304+00:00
+"Calle de Balmes, 355, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:21.317177+00:00
+"Calle de Balmes, 357, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:23.526241+00:00
+"Calle de Balmes, 379, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:25.388724+00:00
+"Calle de Balmes, 8, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:27.478358+00:00
+"Calle de Basea, 12, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:29.206301+00:00
+"Calle de Beret, 56, Can Peguera - El Turó de la Peira, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:31.364250+00:00
+"Calle de Bergara, 5, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:33.469873+00:00
+"Calle de Berlín, 2, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:35.799964+00:00
+"Calle de Berlín, 51, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:38.227706+00:00
+"Calle de Berlín, 7, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:40.705662+00:00
+"Calle de Bernat Bransi, 48, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:43.119686+00:00
+"Calle de Bertran, 100, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:45.066434+00:00
+"Calle de Bertran, 46, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:46.973216+00:00
+"Calle de Bismarck, 32, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:49.064615+00:00
+"Calle de Bofarull, 29, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:50.844638+00:00
+"Calle de Bordeus, 4, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:52.807481+00:00
+"Calle de Bretón de los Herreros, 15, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:55.511439+00:00
+"Calle de Briquets, 12, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:57.460008+00:00
+"Calle de Buenaventura Muñoz, 56, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:38:59.467768+00:00
+"Calle de Ca n'Oliva , 48, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:01.753521+00:00
+"Calle de Cabanes, 24, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:04.614711+00:00
+"Calle de Cabestany, 9, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:06.587308+00:00
+"Calle de Calders, 2, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:08.948239+00:00
+"Calle de Calders, 3, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:11.525283+00:00
+"Calle de Calderón de la Barca, 107, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:14.206495+00:00
+"Calle de Calderón de la Barca, 99, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:16.370514+00:00
+"Calle de Calvet, 33, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:18.112105+00:00
+"Calle de Campins, 17, Baró de Viver, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:19.945250+00:00
+"Calle de Cantabria, 22, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:21.902087+00:00
+"Calle de Cantàbria, 18, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:23.823272+00:00
+"Calle de Cantàbria, 24, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:25.687877+00:00
+"Calle de Cantàbria, 37, Sant Martí de Provençals, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:27.644614+00:00
+"Calle de Carrera, 2, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:29.917194+00:00
+"Calle de Cartellà, 120, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:32.233595+00:00
+"Calle de Cartellà, 150, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:33.985690+00:00
+"Calle de Casafranca, 31, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:36.170463+00:00
+"Calle de Casp, 85, El Fort Pienc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:37.927184+00:00
+"Calle de Castella, 30, Provençals del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:40.122346+00:00
+"Calle de Cervantes, 1, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:42.193989+00:00
+"Calle de Cervantes, 5, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:44.126876+00:00
+"Calle de Conca, 44, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:46.224225+00:00
+"Calle de Concepción Arenal, 1 -3, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:48.278231+00:00
+"Calle de Concepción Arenal, 227, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:50.385493+00:00
+"Calle de Concepción Arenal, 43, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:53.280079+00:00
+"Calle de Concepción Arenal, 83, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:55.776317+00:00
+"Calle de Corretger, 18, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:39:58.374190+00:00
+"Calle de Còrsega, 2, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:00.474771+00:00
+"Calle de Còrsega, 378, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:03.422134+00:00
+"Calle de Còrsega, 580, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:06.224650+00:00
+"Calle de Còrsega, 657, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:08.387701+00:00
+"Calle de Deià, 36, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:10.154823+00:00
+"Calle de Fastenrath, 70 -78, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:11.919559+00:00
+"Calle de Fastenrath, 77, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:14.049480+00:00
+"Calle de Felip II, 291, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:15.895011+00:00
+"Calle de Ferlandina, 20, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:17.551123+00:00
+"Calle de Fernando Poo, 54, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:19.756730+00:00
+"Calle de Ferran, 3, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:21.656643+00:00
+"Calle de Ferran, 6, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:23.591947+00:00
+"Calle de Fluvià, 270, Sant Martí de Provençals, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:25.502751+00:00
+"Calle de Fluvià, 78, Provençals del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:27.555879+00:00
+"Calle de Fluvià, 97, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:29.397147+00:00
+"Calle de Francesc Boix Campo, 9, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:31.234159+00:00
+"Calle de Francesc Carbonell, 34, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:32.855855+00:00
+"Calle de Fígols, 1, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:34.700487+00:00
+"Calle de Gabriel y Galán, 5, El Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:38.845947+00:00
+"Calle de Galileu, 150, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:40.654959+00:00
+"Calle de Galileu, 191, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:42.458676+00:00
+"Calle de Galileu, 210, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:44.284321+00:00
+"Calle de Galileu, 247, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:47.124256+00:00
+"Calle de Galileu, 30, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:48.897549+00:00
+"Calle de Ganduxer, 74, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:50.659348+00:00
+"Calle de Girona, 111, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:52.730412+00:00
+"Calle de Girona, 12, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:54.891149+00:00
+"Calle de Girona, 164, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:40:57.566704+00:00
+"Calle de Girona, 168, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:00.524054+00:00
+"Calle de Girona, 20, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:02.690395+00:00
+"Calle de Gomis, 60, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:04.486391+00:00
+"Calle de Guerau de Liost, 10, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:06.215044+00:00
+"Calle de Guifré, 9, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:07.912048+00:00
+"Calle de Guipúscoa, 141, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:09.823434+00:00
+"Calle de Guitard, 48, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:11.691035+00:00
+"Calle de Jaume Pinent, 56, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:13.915514+00:00
+"Calle de Jaume Pinent, 57, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:15.894959+00:00
+"Calle de Jaume Puigvert, 3, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:17.703517+00:00
+"Calle de Joan Torras, 12, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:19.476890+00:00
+"Calle de Joaquim Valls, 85, La Prosperitat, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:21.319275+00:00
+"Calle de Joaquín Costa, 46, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:23.637022+00:00
+"Calle de Jordi Girona, 8, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:26.084515+00:00
+"Calle de Josep Anselm Clavé, 2, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:27.805345+00:00
+"Calle de Josep Anselm Clavé, 3, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:30.149773+00:00
+"Calle de Josep Estivill, 33, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:31.850810+00:00
+"Calle de Josep Estivill, 46, La Sagrera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:33.971380+00:00
+"Calle de Josep M. Jujol, 9, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:35.694898+00:00
+"Calle de Josep Pla, 21, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:38.147330+00:00
+"Calle de Josep Pla, 25, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:40.856602+00:00
+"Calle de Josep Sangenís, 50, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:43.163185+00:00
+"Calle de Josep Serrano, 31, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:45.717447+00:00
+"Calle de Josep Serrano, 43 -45, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:47.662854+00:00
+"Calle de Josep Serrano, 48, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:49.936588+00:00
+"Calle de José Millán González, 18, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:52.020720+00:00
+"Calle de Juan de Garay, 30, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:54.294875+00:00
+"Calle de Lancaster, 13, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:57.249037+00:00
+"Calle de Llauder, 4, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:41:59.095695+00:00
+"Calle de Llorens i Barba, 3, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:00.911004+00:00
+"Calle de Llull, 350, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:02.786297+00:00
+"Calle de Llull, 465, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:04.615339+00:00
+"Calle de Llull, 465, El Poblenou, Barcelona, Spain",41.6254388,2.6773795,"Carrer de Ramon Llull, Can Feliu de Merola, les Creus, Pineda de Mar, Maresme, Barcelona, Catalunya, 08397, España",0.053393601129167585,way,493769304,found,2026-04-21T09:42:06.421826+00:00
+"Calle de Malgrat, 50, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:08.272739+00:00
+"Calle de Malgrat, 88, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:10.109379+00:00
+"Calle de Mallorca, 234, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:12.276904+00:00
+"Calle de Mallorca, 246, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:15.242387+00:00
+"Calle de Mallorca, 283, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:17.156164+00:00
+"Calle de Mandri, 66, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:18.830362+00:00
+"Calle de Marià Cubí, 115, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:20.723700+00:00
+"Calle de Marlet, 3, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:23.005329+00:00
+"Calle de Marmellà, 8, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:24.786787+00:00
+"Calle de Mata, 11, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:27.002810+00:00
+"Calle de Miguel Hernández, 10, Canyelles, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:28.831620+00:00
+"Calle de Miquel Àngel, 110 -120, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:32.309169+00:00
+"Calle de Montserrat de Casanovas, 98, La Font d'En Fargues, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:34.723656+00:00
+"Calle de Morales, 18, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:36.869723+00:00
+"Calle de Mossèn Vives, 26, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:38.908600+00:00
+"Calle de Mozart, 56, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:41.262978+00:00
+"Calle de Mozart, 9, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:43.528106+00:00
+"Calle de Munné, 9, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:45.170847+00:00
+"Calle de Muntaner, 202, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:47.123829+00:00
+"Calle de Muntaner, 246, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:49.073823+00:00
+"Calle de Muntaner, 261, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:50.822992+00:00
+"Calle de Muntaner, 371, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:52.643845+00:00
+"Calle de Móra d'Ebre, 74, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:54.944581+00:00
+"Calle de Móra d'Ebre, 80, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:57.315291+00:00
+"Calle de Móra d'Ebre, 92, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:42:59.728011+00:00
+"Calle de Neopàtria, 1, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:02.170886+00:00
+"Calle de Nulles, 4, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:04.518540+00:00
+"Calle de Nàpols, 321, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:06.450990+00:00
+"Calle de Pablo Iglesias, 98, La Prosperitat, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:08.242591+00:00
+"Calle de Pamplona, 90, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:10.901773+00:00
+"Calle de Panissars, 24, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:12.674196+00:00
+"Calle de Pardo, 93, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:14.367143+00:00
+"Calle de París, 135, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:16.674911+00:00
+"Calle de París, 194, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:19.158294+00:00
+"Calle de Pau Alsina, 119, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:21.824090+00:00
+"Calle de Pau Alsina, 4, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:23.602952+00:00
+"Calle de Pau Claris, 104, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:25.522157+00:00
+"Calle de Pau Claris, 140, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:27.230838+00:00
+"Calle de Pau Claris, 142, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:29.261794+00:00
+"Calle de Pau Claris, 155, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:31.124597+00:00
+"Calle de Pau Claris, 72, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:33.361552+00:00
+"Calle de Pau Claris, 76, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:35.076472+00:00
+"Calle de Pavia, 47, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:36.962844+00:00
+"Calle de Perafita, 4, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:38.757786+00:00
+"Calle de Perafita, 63, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:40.433131+00:00
+"Calle de Perafita, 71, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:42.323206+00:00
+"Calle de Pere IV, 121, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:44.139511+00:00
+"Calle de Pere Serafí, 23, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:45.823533+00:00
+"Calle de Peris i Mencheta, 2, La Font d'En Fargues, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:47.796781+00:00
+"Calle de Petrarca, 20, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:49.626889+00:00
+"Calle de Petritxol, 21, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:51.446064+00:00
+"Calle de Pi i Margall, 1, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:53.575748+00:00
+"Calle de Pi i Margall, 82, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:55.926913+00:00
+"Calle de Piquer, 50, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:57.830002+00:00
+"Calle de Prada, 12, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:43:59.821466+00:00
+"Calle de Prats de Molló, 1, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:02.199862+00:00
+"Calle de Provença, 475, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:06.370907+00:00
+"Calle de Provença, 539, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:08.793117+00:00
+"Calle de Provençals, 5, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:10.630028+00:00
+"Calle de Puigcerdà, 227, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:12.660977+00:00
+"Calle de Pujades, 10, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:14.320787+00:00
+"Calle de Pujades, 230, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:16.215504+00:00
+"Calle de Rafael Batlle, 16, Les Tres Torres, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:18.130165+00:00
+"Calle de Ramon Rocafull, 74, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:19.786481+00:00
+"Calle de Ramon Rocafull, 94, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:21.505994+00:00
+"Calle de Ramón y Cajal, 32, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:24.040776+00:00
+"Calle de Renart, 14, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:25.807334+00:00
+"Calle de Renart, 16, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:27.872711+00:00
+"Calle de Ricart, 30, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:29.582406+00:00
+"Calle de Roger de Llúria, 22, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:31.256117+00:00
+"Calle de Ros de Olano, 32, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:33.240543+00:00
+"Calle de Rossend Arús, 61, La Bordeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:35.461422+00:00
+"Calle de Ruiz de Padrón, 13, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:37.668297+00:00
+"Calle de Ríos Rosas, 46, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:39.507668+00:00
+"Calle de Sabino Arana, 34, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:42.007108+00:00
+"Calle de Sagunt, 75, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:44.243846+00:00
+"Calle de Salou, 9, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:46.181993+00:00
+"Calle de Salvador Espriu, 83, La Vila Olímpica del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:48.204663+00:00
+"Calle de Salvà, 30, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:50.589653+00:00
+"Calle de Salvà, 58, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:52.407676+00:00
+"Calle de Sancho de Ávila, 41, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:55.167804+00:00
+"Calle de Sant Antoni Abat, 35, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:44:58.500040+00:00
+"Calle de Sant Antoni Abat, 36, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:00.433016+00:00
+"Calle de Sant Antoni Abat, 42, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:02.690210+00:00
+"Calle de Sant Antoni Maria Claret, 436, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:04.966839+00:00
+"Calle de Sant Bartomeu, 4, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:06.925289+00:00
+"Calle de Sant Crispí, 5, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:08.682299+00:00
+"Calle de Sant Gil, 6, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:10.848812+00:00
+"Calle de Sant Joan de la Salle, 45, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:13.128874+00:00
+"Calle de Sant Joaquim, 13, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:17.060370+00:00
+"Calle de Sant Joaquim, 4, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:19.202541+00:00
+"Calle de Sant Martí, 5, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:21.536347+00:00
+"Calle de Sant Miquel, 32, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:23.739678+00:00
+"Calle de Sant Miquel, 62, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:25.691914+00:00
+"Calle de Sant Narcís, 19, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:27.580411+00:00
+"Calle de Sant Pau, 51, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:29.678381+00:00
+"Calle de Sant Pere Mitjà, 48, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:32.417357+00:00
+"Calle de Sant Pere Mitjà, 53, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:34.464045+00:00
+"Calle de Sant Pere Més Alt, 39, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:36.930864+00:00
+"Calle de Sant Pere Més Alt, 4, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:38.819303+00:00
+"Calle de Sant Pere Més Alt, 41, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:40.730760+00:00
+"Calle de Sant Pere Més Alt, 50, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:42.686571+00:00
+"Calle de Sant Pere Més Baix, 18, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:44.563358+00:00
+"Calle de Sant Rafael, 26, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:46.562748+00:00
+"Calle de Sant Salvador, 131, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:48.723772+00:00
+"Calle de Sant Salvador, 14, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:50.882345+00:00
+"Calle de Santa Albina, 15 Bis, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:52.784096+00:00
+"Calle de Santa Albina, 40, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:54.598311+00:00
+"Calle de Santa Rosalia, 69, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:56.578827+00:00
+"Calle de Santaló, 149, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:45:58.599959+00:00
+"Calle de Santaló, 94, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:01.145018+00:00
+"Calle de Sants, 229, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:03.524504+00:00
+"Calle de Sants, 51, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:05.688423+00:00
+"Calle de Saragossa, 22, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:07.570956+00:00
+"Calle de Saragossa, 68, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:10.443607+00:00
+"Calle de Sardenya, 350, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:12.844138+00:00
+"Calle de Sardenya, 359, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:14.738491+00:00
+"Calle de Sardenya, 365, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:16.658745+00:00
+"Calle de Sardenya, 400, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:18.937829+00:00
+"Calle de Sardenya, 48, La Vila Olímpica del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:21.243386+00:00
+"Calle de Sardenya, 532, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:23.526286+00:00
+"Calle de Sargelet, 20, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:26.096943+00:00
+"Calle de Sepúlveda, 158, Sant Antoni, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:28.323446+00:00
+"Calle de Sidó, 3, Sant Genís Dels Agudells - Montbau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:30.125925+00:00
+"Calle de Sigüenza, 100, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:32.837928+00:00
+"Calle de Sigüenza, 79 n, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:34.510302+00:00
+"Calle de Simancas, 44, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:36.587593+00:00
+"Calle de Simó Oller, 1, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:38.643414+00:00
+"Calle de Siracusa, 13, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:40.781619+00:00
+"Calle de Sor Eulàlia d'Anzizu, 26, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:43.010315+00:00
+"Calle de Sostres, 15, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:44.707803+00:00
+"Calle de Sèneca, 9, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:47.002616+00:00
+"Calle de Tapioles, 15, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:48.690861+00:00
+"Calle de Tarragona, 104, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:50.877481+00:00
+"Calle de Tenerife, 29, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:52.800124+00:00
+"Calle de Teodor Llorente, 19, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:54.678529+00:00
+"Calle de Teodora Lamadrid, 4, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:56.656896+00:00
+"Calle de Terol, 37, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:46:58.851012+00:00
+"Calle de Tolra, 21, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:00.727293+00:00
+"Calle de Tolrà, 15, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:02.994254+00:00
+"Calle de Tolrà, 30, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:05.227627+00:00
+"Calle de Tordera, 49, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:07.980763+00:00
+"Calle de Torras i Pujalt, 52, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:09.708491+00:00
+"Calle de Trafalgar, 42, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:12.500382+00:00
+"Calle de Travau, 32, Can Peguera - El Turó de la Peira, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:14.644828+00:00
+"Calle de Travau, 38, Can Peguera - El Turó de la Peira, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:16.983706+00:00
+"Calle de Trinxant, 100, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:18.711699+00:00
+"Calle de Trinxant, 134, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:20.896605+00:00
+"Calle de Valldonzella, 56, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:22.611189+00:00
+"Calle de València, 178 -184, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:25.454684+00:00
+"Calle de València, 180, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:27.650433+00:00
+"Calle de València, 198, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:30.707487+00:00
+"Calle de València, 234, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:33.898461+00:00
+"Calle de València, 353, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:36.907970+00:00
+"Calle de València, 355, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:39.486048+00:00
+"Calle de Varsòvia, 77, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:41.695346+00:00
+"Calle de Vayreda, 30, Sant Genís Dels Agudells - Montbau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:44.247867+00:00
+"Calle de Veneçuela, 172, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:46.756983+00:00
+"Calle de Verdaguer i Callís, 22, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:48.585285+00:00
+"Calle de Verdi, 101, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:51.157383+00:00
+"Calle de Verdi, 284, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:53.095921+00:00
+"Calle de Verdi, 72, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:55.751341+00:00
+"Calle de Vidal i de Valenciano, 62, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:47:58.158072+00:00
+"Calle de Vila i Vilà, 55 -45, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:00.384915+00:00
+"Calle de Vila i Vilà, 55, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:02.906664+00:00
+"Calle de Viladomat, 318 JosepTarradellas, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:04.636423+00:00
+"Calle de Vilamarí, 1, Sant Antoni, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:06.362900+00:00
+"Calle de Villarroel, 17, Sant Antoni, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:08.233615+00:00
+"Calle de Villarroel, 188, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:10.075650+00:00
+"Calle de Villarroel, 73, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:12.441302+00:00
+"Calle de Vinyals, 38 -48, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:14.350373+00:00
+"Calle de Violant d'Hongria Reina d'Aragó, 69, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:16.125270+00:00
+"Calle de l'Agricultura, 272, Sant Martí de Provençals, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:17.983221+00:00
+"Calle de l'Arc de Sant Martí, 95, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:20.475969+00:00
+"Calle de l'Arc del Teatre, 22, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:23.176720+00:00
+"Calle de l'Artesania, 214, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:25.349511+00:00
+"Calle de l'Aurora, 14, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:27.353489+00:00
+"Calle de l'Avet, 19, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:29.207472+00:00
+"Calle de l'Aviació, 10, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:31.089218+00:00
+"Calle de l'Escar, 9 -1, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:33.450781+00:00
+"Calle de l'Escorial, 158, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:36.110305+00:00
+"Calle de l'Escorial, 50, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:38.560115+00:00
+"Calle de l'Hostal d'en Sol, 7, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:40.548081+00:00
+"Calle de l'Isard, 17, La Guineueta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:42.355768+00:00
+"Calle de l'Onyar, 6, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:44.267785+00:00
+"Calle de la Blanqueria, 16, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:46.064196+00:00
+"Calle de la Blanqueria, 9, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:47.982270+00:00
+"Calle de la Bòria, 13, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:49.984471+00:00
+"Calle de la Cera, 33, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:52.561853+00:00
+"Calle de la Cera, 57, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:54.649113+00:00
+"Calle de la Ciutat de Granada, 94, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:56.646620+00:00
+"Calle de la Conca de Tremp, 64, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:48:58.634805+00:00
+"Calle de la Conca de Tremp, 91, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:01.420472+00:00
+"Calle de la Conca de Tremp, 98, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:03.843747+00:00
+"Calle de la Concòrdia, 17, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:06.093788+00:00
+"Calle de la Costa, 69 b, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:09.032878+00:00
+"Calle de la Diputació, 344, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:11.716985+00:00
+"Calle de la Diputació, 84, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:13.536075+00:00
+"Calle de la Duquessa d'Orleans, 34, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:15.501575+00:00
+"Calle de la Foneria, 38, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:17.854122+00:00
+"Calle de la Fonolleda, 10, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:19.601720+00:00
+"Calle de la Font Honrada, 17, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:21.467777+00:00
+"Calle de la Font d'en Canyelles, 92, Verdun, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:23.328313+00:00
+"Calle de la Font del Remei, 10, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:25.184731+00:00
+"Calle de la Foradada, 73, La Trinitat Vella, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:27.138748+00:00
+"Calle de la Granada del Penedès, 24 -26, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:29.099456+00:00
+"Calle de la Indústria, 128, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:31.277131+00:00
+"Calle de la Indústria, 236, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:33.675574+00:00
+"Calle de la Indústria, 262, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:35.766764+00:00
+"Calle de la Indústria, 78, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:37.662093+00:00
+"Calle de la Jota, 29, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:39.461676+00:00
+"Calle de la Junta de Comerç, 13, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:41.266326+00:00
+"Calle de la Madriguera, 1, La Trinitat Vella, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:43.063048+00:00
+"Calle de la Mare de Déu de Montserrat, 243, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:45.450622+00:00
+"Calle de la Mare de Déu de Núria, 11, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:47.348856+00:00
+"Calle de la Mare de Déu dels Angels, 33, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:49.102207+00:00
+"Calle de la Marina, 334, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:51.788786+00:00
+"Calle de la Marina, 48, La Vila Olímpica del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:54.170153+00:00
+"Calle de la Marina, 87, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:56.148181+00:00
+"Calle de la Metal·lúrgia, 34, La Marina del Prat Vermell, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:57.868135+00:00
+"Calle de la Mineria, 2, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:49:59.664735+00:00
+"Calle de la Mineria, 24, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:01.367667+00:00
+"Calle de la Murtra, 181, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:03.335584+00:00
+"Calle de la Palma, 15, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:06.069368+00:00
+"Calle de la Paloma, 11, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:09.009387+00:00
+"Calle de la Portaferrissa, 19, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:11.096705+00:00
+"Calle de la Portaferrissa, 31, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:12.863389+00:00
+"Calle de la Puríssima Concepció, 5, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:14.846864+00:00
+"Calle de la Reina Amàlia, 18, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:18.874286+00:00
+"Calle de la Renaixença, 58, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:21.151978+00:00
+"Calle de la Riera Blanca, 85, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:23.404896+00:00
+"Calle de la Riera d'Horta, 49, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:25.693786+00:00
+"Calle de la Riera d'Horta, 53, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:28.351267+00:00
+"Calle de la Riera de Mulet, 15, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:30.968739+00:00
+"Calle de la Riereta, 35, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:33.530173+00:00
+"Calle de la Selva de Mar, 18, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:36.103080+00:00
+"Calle de la Sèquia Comtal, 4, El Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:37.882153+00:00
+"Calle de la Torre Vélez, 1, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:40.295958+00:00
+"Calle de la Vall d'Ordesa, 15, Can Peguera - El Turó de la Peira, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:42.758963+00:00
+"Calle de la Vinya, 30, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:45.161305+00:00
+"Calle de la Vista Alegre, 22, Can Baró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:47.452812+00:00
+"Calle de las Navas de Tolosa, 348, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:50.122124+00:00
+"Calle de les Agudes, 5, Ciutat Meridiana - Torre Baró - Vallbona, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:51.981316+00:00
+"Calle de les Camèlies, 99, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:53.809900+00:00
+"Calle de les Carretes, 44, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:55.540991+00:00
+"Calle de les Carretes, 60, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:57.186324+00:00
+"Calle de les Jonqueres, 16, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:50:58.863928+00:00
+"Calle de les Magdalenes, 2, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:00.682499+00:00
+"Calle de les Torres, 78, Les Roquetes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:02.636614+00:00
+"Calle de los Castillejos, 265, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:04.661758+00:00
+"Calle de los Castillejos, 370, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:07.251769+00:00
+"Calle de los Castillejos, 385, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:09.462814+00:00
+"Calle de los Ferrocarriles Catalanes, 12, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:12.231126+00:00
+"Calle del Baladre, 44, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:14.005324+00:00
+"Calle del Bisbe Sivilla, 37, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:16.287250+00:00
+"Calle del Brosolí, 18, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:18.458401+00:00
+"Calle del Bruc, 94, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:20.177884+00:00
+"Calle del Camp, 39, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:21.966615+00:00
+"Calle del Camp, 80, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:24.535029+00:00
+"Calle del Canigó, 110, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:26.819549+00:00
+"Calle del Canonge Pibernat, 16, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:28.566835+00:00
+"Calle del Canonge Pibernat, 8, Sants - Badal, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:30.420083+00:00
+"Calle del Cardenal Tedeschini, 74, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:32.584268+00:00
+"Calle del Cardenal Tedeschini, 75, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:34.294664+00:00
+"Calle del Cardenal Vives i Tutó, 65, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:36.490369+00:00
+"Calle del Cardener, 23, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:38.215257+00:00
+"Calle del Carme, 44, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:40.239906+00:00
+"Calle del Carme, 9, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:42.201990+00:00
+"Calle del Cinca, 32, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:44.073443+00:00
+"Calle del Comte Borrell, 149, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:45.860485+00:00
+"Calle del Comte Borrell, 165, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:47.701736+00:00
+"Calle del Comte d'Urgell, 69, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:49.633453+00:00
+"Calle del Congost, 25, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:51.406225+00:00
+"Calle del Consell de Cent, 22, Hostafrancs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:53.239055+00:00
+"Calle del Conveni, 20, La Prosperitat, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:54.965156+00:00
+"Calle del Correu Vell, 10, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:56.636637+00:00
+"Calle del Císter, 9, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:51:58.839405+00:00
+"Calle del Doctor Aiguader, 16, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:00.566107+00:00
+"Calle del Doctor Aiguader, 7, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:02.285448+00:00
+"Calle del Doctor Cadevall, 12, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:04.130323+00:00
+"Calle del Farell, 15, Hostafrancs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:05.838215+00:00
+"Calle del Ferrocarril, 7, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:08.537836+00:00
+"Calle del Foc Follet, 58, El Bon Pastor, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:10.603841+00:00
+"Calle del Foc, 28, La Marina del Prat Vermell, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:12.440143+00:00
+"Calle del Foc, 44, La Marina del Prat Vermell, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:15.164873+00:00
+"Calle del Francolí, 35 -37, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:17.030352+00:00
+"Calle del Guadiana, 8, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:18.853755+00:00
+"Calle del Lleó, 15, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:20.748799+00:00
+"Calle del Mar, 117, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:22.868985+00:00
+"Calle del Mar, 63, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:24.936700+00:00
+"Calle del Maresme, 114, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:27.033989+00:00
+"Calle del Maresme, 272, La Verneda i la Pau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:29.022175+00:00
+"Calle del Maresme, 50, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:31.397779+00:00
+"Calle del Marquès de Barberà, 14, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:33.685926+00:00
+"Calle del Marquès de la Mina, 25, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:35.598946+00:00
+"Calle del Mas Casanovas, 33, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:37.448512+00:00
+"Calle del Molí, 23, La Prosperitat, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:39.209313+00:00
+"Calle del Montsant, 34, Can Peguera - El Turó de la Peira, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:40.952555+00:00
+"Calle del Nerbion, 5, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:42.705229+00:00
+"Calle del Nerbion, 9, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:44.426978+00:00
+"Calle del Paraguai, 31, Provençals del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:46.707177+00:00
+"Calle del Parlament, 53, Sant Antoni, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:48.518138+00:00
+"Calle del Perelló, 56, El Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:50.275285+00:00
+"Calle del Pi, 14, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:52.600711+00:00
+"Calle del Pistó, 26, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:54.288423+00:00
+"Calle del Pisuerga, 19, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:56.134566+00:00
+"Calle del Plom, 23, La Marina del Prat Vermell, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:57.927150+00:00
+"Calle del Poeta Cabanyes, 7, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:52:59.619452+00:00
+"Calle del Poeta Cabanyes, 9, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:01.716648+00:00
+"Calle del Portal Nou, 27, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:04.789176+00:00
+"Calle del Portal Nou, 41, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:07.348104+00:00
+"Calle del Príncep de Viana, 13, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:09.583375+00:00
+"Calle del Regent Mendieta, 22, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:11.506046+00:00
+"Calle del Regent Mendieta, 24, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:13.115758+00:00
+"Calle del Rosselló, 187, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:15.803946+00:00
+"Calle del Rosselló, 522, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:18.532490+00:00
+"Calle del Rosselló, 82, La Nova Esquerra de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:21.749101+00:00
+"Calle del Sots - Tinent Navarro, 35, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:23.576023+00:00
+"Calle del Taquígraf Garriga, 66, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:25.534445+00:00
+"Calle del Tenor Masini, 20, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:27.431440+00:00
+"Calle del Tenor Masini, 77, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:29.115047+00:00
+"Calle del Torrent de l'Olla, 28, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:30.852346+00:00
+"Calle del Torrent de les Flors, 115, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:32.773871+00:00
+"Calle del Treball, 275, Sant Martí de Provençals, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:34.553627+00:00
+"Calle del Vidre, 21, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:36.249651+00:00
+"Calle del Xiprer, 43, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:38.070132+00:00
+"Calle del besòs, 16, La Teixonera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:39.747762+00:00
+"Calle del dos de Maig, 219, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:41.621209+00:00
+"Calle dels Agullers, 15, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:43.330222+00:00
+"Calle dels Alts Forns, 90, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:45.568141+00:00
+"Calle dels Alts Forns, 95, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:47.363881+00:00
+"Calle dels Banys Nous, 7, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:49.175822+00:00
+"Calle dels Banys Vells, 12, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:50.942389+00:00
+"Calle dels Banys Vells, 14, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:52.724330+00:00
+"Calle dels Carders, 9, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:54.310442+00:00
+"Calle dels Cavallers, 41, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:56.069365+00:00
+"Calle dels Cresques, 5 , - Cesi, El Bon Pastor, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:57.799282+00:00
+"Calle dels Còdols, 26, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:53:59.496268+00:00
+"Calle dels Esports, 2, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:01.351914+00:00
+"Calle dels Madrazo, 60, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:03.014187+00:00
+"Calle dels Nou Barris, 4, La Trinitat Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:04.699389+00:00
+"Calle dels Orgues, 6, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:06.456969+00:00
+"Calle dels Pescadors, 25, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:08.203335+00:00
+"Calle dels Pescadors, 68, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:10.528870+00:00
+"Calle dels Sombrerers, 5, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:12.498950+00:00
+"Calle dels Tallers, 26, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:15.045017+00:00
+"Calle dels Tallers, 57, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:16.951126+00:00
+"Calle dels Tallers, 69, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:18.728265+00:00
+"Calle dels Valero, 11, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:20.594673+00:00
+"Calle independencia, 288, El Camp de l'Arpa del Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:22.564365+00:00
+"Calle picalquers, 11, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:24.363083+00:00
+"Calle sant marc, 18, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:26.561078+00:00
+"Camino Sant Genís, 3, Sant Genís Dels Agudells - Montbau, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:28.277562+00:00
+"Camino de Mas Sauró, 63, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:54:30.718370+00:00
+"Cantabria, 18, La Verneda i la Pau, Barcelona, Spain",41.4189605,2.2030665,"18, Carrer de Cantàbria, la Pau, la Verneda i la Pau, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08020, España",8.435721370255616e-05,node,6525124242,found,2026-04-21T09:54:32.414514+00:00
+"Carrer de Calders, 2, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3846264,2.1829777,"2, Carrer de Calders, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,12131017880,found,2026-04-21T09:54:34.010386+00:00
+"Carrer de Calders, 3, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3845896,2.1830455,"Hidden Doorway Tattoo, 3, Carrer de Calders, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,7108817886,found,2026-04-21T09:54:35.660214+00:00
+"Carrer dels Escudellers, 20, El Gòtic, Barcelona, Spain",41.3797986,2.1765913,"20, Carrer dels Escudellers, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,7673782711,found,2026-04-21T09:54:37.760006+00:00
+"Carretera Reial, 128, Barcelona, Spain",41.3799376,2.0616315,"Carretera Reial, Sant Just Desvern, Baix Llobregat, Barcelona, Catalunya, 08960, España",0.053394287785152934,way,28985701,found,2026-04-21T09:54:39.493324+00:00
+"Carretera de Sarrià a Vallvidrera, 261, Vallvidrera - El Tibidabo i les Planes, Barcelona, Spain",41.4126294,2.1042366,"261-265, Carretera de Sarrià a Vallvidrera, Vallvidrera, Vallvidrera, el Tibidabo i les Planes, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08017, España",8.435721370255616e-05,node,12142922746,found,2026-04-21T09:54:41.312350+00:00
+"Carretera de les Aigües, 24, Pedralbes, Barcelona, Spain",41.395971,2.1008015,"24, Carretera de les Aigües, Pedralbes, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08017, España",6.091477836266144e-05,node,12078355392,found,2026-04-21T09:54:42.959202+00:00
+"Colom, 11, El Gòtic, Barcelona, Spain",41.3799696,2.1806837,"11, Passeig de Colom, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,6244773107,found,2026-04-21T09:54:44.659619+00:00
+"Diagonal, 339, La Dreta de l'Eixample, Barcelona, Spain",41.3983215,2.1676922,"Don Kilo, 339, Avinguda Diagonal (lateral mar), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08037, España",8.435721370255616e-05,node,11295491613,found,2026-04-21T09:54:47.130130+00:00
+"Espronceda, 61, El Poblenou, Barcelona, Spain",41.4035655,2.2067887,"61, Carrer d'Espronceda, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",8.435721370255616e-05,node,6721071129,found,2026-04-21T09:54:48.749286+00:00
+"Ferran Agullo, 18, Sant Gervasi - Galvany, Barcelona, Spain",41.3960046,2.1405469,"18, Carrer de Ferran Agulló, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08021, España",8.435721370255616e-05,node,6064824200,found,2026-04-21T09:54:50.851091+00:00
+"Francoli, 17, El Putxet i el Farró, Barcelona, Spain",41.4046116,2.1480594,"17, Carrer del Francolí, el Farró, el Putxet i el Farró, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08006, España",8.435721370255616e-05,node,6078530477,found,2026-04-21T09:54:52.492714+00:00
+"Gomis, 72, Vallcarca i els Penitents, Barcelona, Spain",41.4131821,2.1402724,"72, Carrer de Gomis, Vallcarca, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08023, España",8.435721370255616e-05,node,11469955024,found,2026-04-21T09:54:54.658972+00:00
+"Gran Via de Carles III, 49, La Maternitat i Sant Ramon, Barcelona, Spain",41.3827181,2.127685,"49, Gran Via de Carles III, la Maternitat, la Maternitat i Sant Ramon, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08028, España",8.435721370255616e-05,node,12038311014,found,2026-04-21T09:54:56.492448+00:00
+"Gran Via de les Corts Catalanes, 1150, Provençals del Poblenou, Barcelona, Spain",41.4177826,2.2070586,"1150, Gran Via de les Corts Catalanes (lateral mar), Provençals del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08020, España",8.435721370255616e-05,relation,9429080,found,2026-04-21T09:54:58.204050+00:00
+"Gran Via de les Corts Catalanes, 1178, El Besòs, Barcelona, Spain",41.4204862,2.2099329,"Gran Via de les Corts Catalanes (lateral mar), el Besòs, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08020, España",0.4536252297026014,way,251750784,found,2026-04-21T09:55:00.141783+00:00
+"Gran Via de les Corts Catalanes, 148, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:55:02.001245+00:00
+"Gran Via de les Corts Catalanes, 164, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:55:04.858432+00:00
+"Gran Via de les Corts Catalanes, 203, La Bordeta, Barcelona, Spain",41.3676941,2.1393907,"Gran Via de les Corts Catalanes, la Bordeta, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",0.4536252297026014,way,533269953,found,2026-04-21T09:55:06.607923+00:00
+"Gran Via de les Corts Catalanes, 294, La Font de la Guatlla, Barcelona, Spain",41.3721323,2.1457035,"294, Gran Via de les Corts Catalanes, la Font de la Guatlla, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",8.435721370255616e-05,node,5164105527,found,2026-04-21T09:55:08.663333+00:00
+"Gran Via de les Corts Catalanes, 301, Hostafrancs, Barcelona, Spain",41.3722377,2.1449908,"301, Gran Via de les Corts Catalanes (lateral muntanya), Hostafrancs, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",8.435721370255616e-05,node,5164829933,found,2026-04-21T09:55:10.510247+00:00
+"Gran Via de les Corts Catalanes, 302, La Font de la Guatlla, Barcelona, Spain",41.3723876,2.1460944,"Cafe.365, 302, Gran Via de les Corts Catalanes, la Font de la Guatlla, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",8.435721370255616e-05,node,11028575853,found,2026-04-21T09:55:12.639605+00:00
+"Gran Via de les Corts Catalanes, 390, Sant Antoni, Barcelona, Spain",41.3758772,2.1506645,"390, Gran Via de les Corts Catalanes (lateral mar), Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08015, España",8.435721370255616e-05,node,6251874824,found,2026-04-21T09:55:14.791460+00:00
+"Gran Via de les Corts Catalanes, 476, Sant Antoni, Barcelona, Spain",41.379614,2.1561056,"476, Gran Via de les Corts Catalanes (lateral mar), Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08015, España",8.435721370255616e-05,way,249406900,found,2026-04-21T09:55:16.849182+00:00
+"Gran Via de les Corts Catalanes, 537, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",41.382442,2.1593119,"Gran Via de les Corts Catalanes (lateral mar), l'Antiga Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",0.4536252297026014,way,491443472,found,2026-04-21T09:55:19.076598+00:00
+"Gran Via de les Corts Catalanes, 546, Sant Antoni, Barcelona, Spain",41.3829395,2.1603859,"546, Gran Via de les Corts Catalanes (lateral mar), Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",0.13618373728802152,way,249407362,found,2026-04-21T09:55:20.829016+00:00
+"Gran Via de les Corts Catalanes, 548, Sant Antoni, Barcelona, Spain",41.3830114,2.1604803,"548, Gran Via de les Corts Catalanes (lateral mar), Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",8.435721370255616e-05,way,249407363,found,2026-04-21T09:55:22.463615+00:00
+"Gran Via de les Corts Catalanes, 554, Sant Antoni, Barcelona, Spain",41.3832117,2.1607422,"554, Gran Via de les Corts Catalanes (lateral mar), Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",8.435721370255616e-05,way,249407384,found,2026-04-21T09:55:24.256333+00:00
+"Gran Via de les Corts Catalanes, 620, La Dreta de l'Eixample, Barcelona, Spain",41.3878275,2.166665,"Parking Coliseum, 620, Gran Via de les Corts Catalanes (lateral mar), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,11021890459,found,2026-04-21T09:55:26.529854+00:00
+"Gran Via de les Corts Catalanes, 646, La Dreta de l'Eixample, Barcelona, Spain",41.3902325,2.1697752,"646, Gran Via de les Corts Catalanes (lateral mar), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,6179159328,found,2026-04-21T09:55:28.710302+00:00
+"Gran Via de les Corts Catalanes, 686, La Dreta de l'Eixample, Barcelona, Spain",41.3927556,2.1735533,"686, Gran Via de les Corts Catalanes (lateral mar), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",8.435721370255616e-05,relation,11217487,found,2026-04-21T09:55:30.523346+00:00
+"Gran Via de les Corts Catalanes, 688, La Dreta de l'Eixample, Barcelona, Spain",41.3932025,2.1737289,"688, Gran Via de les Corts Catalanes, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",8.435721370255616e-05,node,7340838007,found,2026-04-21T09:55:32.616406+00:00
+"Gran de Sant Andreu, 470, Sant Andreu, Barcelona, Spain",41.4188248,2.1913638,"Carrer Gran de la Sagrera, la Sagrera, Sant Andreu, Barcelona, Barcelonès, Barcelona, Catalunya, 08027, España",0.0534176905470359,way,1213874462,found,2026-04-21T09:55:34.922952+00:00
+"Guifre, 1, El Raval, Barcelona, Spain",41.3815832,2.1666401,"1, Carrer de Guifré, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",8.435721370255616e-05,node,11990916671,found,2026-04-21T09:55:36.802391+00:00
+"Guitard, 63, Les Corts, Barcelona, Spain",41.3836925,2.1367902,"Carrer de Guitard, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08029, España",0.0534176905470359,way,4750164,found,2026-04-21T09:55:39.231918+00:00
+"Ignasi Iglesias, 42, Sant Andreu, Barcelona, Spain",41.4337589,2.186664,"Carrer d'Ignasi Iglésias, Sant Andreu de Palomar, Sant Andreu, Barcelona, Barcelonès, Barcelona, Catalunya, 08030, España",0.0534176905470359,way,52516530,found,2026-04-21T09:55:41.357853+00:00
+"Juan de Austria, 101, El Parc i la Llacuna del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:55:43.573852+00:00
+"La Rambla, 96, El Gòtic, Barcelona, Spain",41.382142,2.1726332,"96, La Rambla, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,7670852047,found,2026-04-21T09:55:45.521994+00:00
+"Meridiana, 179, El Camp de l'Arpa del Clot, Barcelona, Spain",41.4130813,2.1865782,"179, Avinguda Meridiana, el Camp de l'Arpa del Clot, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08026, España",8.435721370255616e-05,node,6205335359,found,2026-04-21T09:55:47.638877+00:00
+"Montornes, 47, Vallcarca i els Penitents, Barcelona, Spain",41.4191004,2.1433787,"47, Carrer de Montornès, Vallcarca, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08023, España",8.435721370255616e-05,node,11470535328,found,2026-04-21T09:55:49.493427+00:00
+"Mühlberg, 32, El Carmel, Barcelona, Spain",41.4178143,2.1588627,"32, Carrer de Mühlberg, el Carmel, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,6365278824,found,2026-04-21T09:55:51.638838+00:00
+"Or, 33, Vila de Gràcia, Barcelona, Spain",41.4051115,2.1579182,"33, Carrer de l'Or, la Vila de Gràcia, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08012, España",8.435721370255616e-05,node,6178020515,found,2026-04-21T09:55:54.078610+00:00
+"Palmeres, 20, Vilapicina i la Torre Llobeta, Barcelona, Spain",41.4297691,2.168,"Passatge de les Palmeres, la Torre Llobeta, Vilapicina i la Torre Llobeta, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08031, España",0.0534176905470359,way,157321775,found,2026-04-21T09:55:56.640999+00:00
+"Parlament, 13, Sant Antoni, Barcelona, Spain",41.3758817,2.1615284,"13, Carrer del Parlament, Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08004, España",8.435721370255616e-05,way,1073409071,found,2026-04-21T09:55:58.575235+00:00
+"Pasaje Coello, 40, La Sagrera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:00.516521+00:00
+"Pasaje Salut, 96, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:02.613944+00:00
+"Paseo Garcia i Faria, 75, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:06.018883+00:00
+"Paseo Josep Carner, 47, Zona Franca - Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:09.544860+00:00
+"Paseo Maragall, 158, El Congrés i els Indians, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:11.771674+00:00
+"Paseo Maragall, 350, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:15.138785+00:00
+"Paseo Maragall, 90, Navas, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:16.996541+00:00
+"Paseo Zona Franca, 142, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:19.580100+00:00
+"Paseo de Fabra i Puig, 118, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:21.627590+00:00
+"Paseo de Fabra i Puig, 262, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:24.231278+00:00
+"Paseo de Fabra i Puig, 305, Vilapicina i la Torre Llobeta, Barcelona, Spain",41.4301405,2.1796521,"EL PASEO, Passeig de Fabra i Puig, Vilapicina, Vilapicina i la Torre Llobeta, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08016, España",8.435721370255616e-05,node,1467583585,found,2026-04-21T09:56:26.502833+00:00
+"Paseo de Fabra i Puig, 315, Vilapicina i la Torre Llobeta, Barcelona, Spain",41.4301405,2.1796521,"EL PASEO, Passeig de Fabra i Puig, Vilapicina, Vilapicina i la Torre Llobeta, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08016, España",8.435721370255616e-05,node,1467583585,found,2026-04-21T09:56:28.663095+00:00
+"Paseo de Garcia Fària, 73, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:31.453865+00:00
+"Paseo de Garcia Fària, 81, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:33.904078+00:00
+"Paseo de Gràcia, 86, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:36.618108+00:00
+"Paseo de Gràcia, 99, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:38.824742+00:00
+"Paseo de Joan de Borbó, 12, La Barceloneta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:40.616354+00:00
+"Paseo de Manuel Girona, 42, Pedralbes, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:42.567447+00:00
+"Paseo de Picasso, 2 -8, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:45.227659+00:00
+"Paseo de Sant Gervasi, 12, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:47.080648+00:00
+"Paseo de Sant Gervasi, 6, Sant Gervasi - La Bonanova, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:48.973322+00:00
+"Paseo de Sant Joan Bosco, 47, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:50.795198+00:00
+"Paseo de Sant Joan, 125, La Dreta de l'Eixample, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:53.575512+00:00
+"Paseo de Valldaura, 113, La Guineueta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:56.031549+00:00
+"Paseo de Valldaura, 184, La Guineueta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:57.944817+00:00
+"Paseo de Valldaura, 66, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:56:59.766361+00:00
+"Paseo de Verdum, 3333, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:01.750931+00:00
+"Paseo de l'Havana, 11, El Bon Pastor, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:03.862889+00:00
+"Paseo de la Mare de Déu del Coll, 74, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:06.073935+00:00
+"Paseo de la Mare de Déu del Coll, 92, El Coll, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:08.747457+00:00
+"Paseo de la Mare de Déu del Coll, 92, Vallcarca i els Penitents, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:10.654417+00:00
+"Paseo de la Reina Elisenda de Montcada, 11, Sarrià, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:12.348001+00:00
+"Paseo de la Zona Franca, 126, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:14.648471+00:00
+"Paseo de la Zona Franca, 181, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:17.348475+00:00
+"Paseo de la Zona Franca, 85, La Marina del Prat Vermell, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:19.245332+00:00
+"Paseo de la mare de déu del coll, 258, El Carmel, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:21.464169+00:00
+"Paseo del Born, 10, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:23.396947+00:00
+"Paseo del Born, 30, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:25.579772+00:00
+"Paseo del Taulat, 250, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:27.994606+00:00
+"Paseo del Taulat, 256, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:29.835811+00:00
+"Paseo del Taulat, 279, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:31.997318+00:00
+"Paseo garcia i faria, 75, Diagonal Mar i el Front Marítim del Poblenou, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:34.150229+00:00
+"Paseo zona franca, 138, La Marina del Port, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:36.316927+00:00
+"Passatge Madoz, 2 -4, El Gòtic, Barcelona, Spain",41.3804957,2.1747602,"Passatge de Madoz, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",0.0534176905470359,way,37768377,found,2026-04-21T09:57:38.194390+00:00
+"Passatge Sant Ramon Nonat, 11, La Maternitat i Sant Ramon, Barcelona, Spain",41.37631,2.1179518,"11, Passatge de Sant Ramon Nonat, Sant Ramon, la Maternitat i Sant Ramon, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08028, España",8.435721370255616e-05,node,6093510415,found,2026-04-21T09:57:40.082520+00:00
+"Passatge d'En Xinxó, 2, El Carmel, Barcelona, Spain",41.4264494,2.1546041,"2-4, Passatge d'en Xinxó, el Carmel, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",8.435721370255616e-05,node,8659277189,found,2026-04-21T09:57:41.729866+00:00
+"Passatge de Coll, 6, Provençals del Poblenou, Barcelona, Spain",41.4107794,2.2072613,"8-6, Passatge de Coll, Provençals del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",8.435721370255616e-05,node,12079190161,found,2026-04-21T09:57:43.546647+00:00
+"Passatge de Colomer, 6, El Poblenou, Barcelona, Spain",41.403308,2.2040493,"12-6, Passatge de Colomer, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",8.435721370255616e-05,node,11979079433,found,2026-04-21T09:57:45.773585+00:00
+"Passatge de Marimon, 7, Sant Gervasi - Galvany, Barcelona, Spain",41.3943292,2.1482375,"7, Passatge de Marimon, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08006, España",8.435721370255616e-05,node,12081550595,found,2026-04-21T09:57:47.349532+00:00
+"Passatge de Martras, 11, El Poble Sec - Parc de Montjuïc, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:57:49.050669+00:00
+"Passatge de Mas de Roda, 21, El Poblenou, Barcelona, Spain",41.3969999,2.2002138,"19-21, Passatge de Mas de Roda, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",8.435721370255616e-05,node,11976374143,found,2026-04-21T09:57:50.837414+00:00
+"Passatge de Mas de Roda, 26, El Poblenou, Barcelona, Spain",41.3970009,2.2003551,"26, Passatge de Mas de Roda, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",8.435721370255616e-05,node,6119950473,found,2026-04-21T09:57:52.561864+00:00
+"Passatge de Paca Soler, 3, Sants - Badal, Barcelona, Spain",41.3752982,2.122748,"Passatge de Paca Soler, Collblanc, Sants-Badal, Sants-Montjuïc, Districte II, Barcelona, Barcelonès, Barcelona, Catalunya, 08903, España",0.0534176905470359,way,139450768,found,2026-04-21T09:57:54.808126+00:00
+"Passatge de Sant Benet, 4, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3903143,2.1791558,"4, Passatge de Sant Benet, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,7694949344,found,2026-04-21T09:57:56.508622+00:00
+"Passatge de Toledo, 13, La Bordeta, Barcelona, Spain",41.3704166,2.1361672,"13-15, Passatge de Toledo, la Bordeta, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",8.435721370255616e-05,node,11365148069,found,2026-04-21T09:57:58.252400+00:00
+"Passatge de l'Arc de Sant Martí, 81, La Font d'En Fargues, Barcelona, Spain",41.4246168,2.1713132,"Passatge de l'Arc de Sant Martí, la Font d'en Fargues, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08041, España",0.04008435721370259,way,773812068,found,2026-04-21T09:57:59.980840+00:00
+"Passatge de la Vinyassa, 1, El Parc i la Llacuna del Poblenou, Barcelona, Spain",41.3954938,2.194069,"1-11, Passatge de la Vinyassa, el Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",8.435721370255616e-05,node,11956668532,found,2026-04-21T09:58:01.619521+00:00
+"Pedrell, 55, La Font d'En Fargues, Barcelona, Spain",41.4244615,2.1662812,"55, Carrer de Pedrell, la Font d'en Fargues, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",8.435721370255616e-05,node,12026923082,found,2026-04-21T09:58:03.294443+00:00
+"Pi i Margall, 36, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",41.4070663,2.1635988,"36, Carrer de Pi i Margall, Gràcia Nova, el Camp d'en Grassot i Gràcia Nova, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,11630704325,found,2026-04-21T09:58:04.996351+00:00
+"Pj Gaiola, 22, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:06.902178+00:00
+"Pj Virreina, 1, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:09.900124+00:00
+"Pla de Palau, 3, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3830299,2.1826572,"3, Pla de Palau, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,7713103540,found,2026-04-21T09:58:11.614477+00:00
+"Pla de la Boqueria, 9, El Gòtic, Barcelona, Spain",41.3813032,2.1734521,"Pla de la Boqueria, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",0.0534176905470359,way,126334641,found,2026-04-21T09:58:13.261212+00:00
+"Plaza Infancia, 4, Sant Martí de Provençals, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:14.994027+00:00
+"Plaza Llevant, 1, El Besòs, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:17.172077+00:00
+"Plaza Mañé i Flaquer, 7, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:19.189622+00:00
+"Plaza Reial, 11, El Gòtic, Barcelona, Spain",41.3800909,2.1750157,"Plaça Reial, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, España",0.41761525391502413,relation,7842902,found,2026-04-21T09:58:21.019522+00:00
+"Plaza Revolució de Setembre 1868, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:22.859727+00:00
+"Plaza d'Eivissa, 5, Horta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:24.835192+00:00
+"Plaza d'Osca, 6, Sants, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:26.876119+00:00
+"Plaza de Catalunya, 3, La Dreta de l'Eixample, Barcelona, Spain",41.3868744,2.1700762,"Plaça de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, España",0.4678393325290842,relation,1732345,found,2026-04-21T09:58:28.834160+00:00
+"Plaza de Lesseps, 1, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:30.666921+00:00
+"Plaza de Lesseps, 31, El Putxet i el Farró, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:32.528992+00:00
+"Plaza de Molina, 2, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:34.704214+00:00
+"Plaza de Mossèn Clapés, 20, Sant Andreu, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:36.506926+00:00
+"Plaza de Sant Pere, 14, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.390543,2.1823575,"Tribunal Superior de Justícia de Catalunya, 14-16, Passeig de Lluís Companys, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",0.3975758564613986,node,4711703170,found,2026-04-21T09:58:40.075137+00:00
+"Plaza de la República, 4, Porta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:42.598221+00:00
+"Plaza de la Sagrada Família, 26, La Sagrada Família, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:44.869685+00:00
+"Plaza de les Dones del 36, Nn, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:46.657940+00:00
+"Plaza de les Dones del 36, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:48.849190+00:00
+"Plaza de les Olles, 7, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:50.630790+00:00
+"Plaza del Guinardó, 8, El Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:53.325353+00:00
+"Plaza gala Placidia, 1, Sant Gervasi - Galvany, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:55.004422+00:00
+"Provença, 504, La Sagrada Família, Barcelona, Spain",41.4066199,2.1775151,"504, Carrer de Provença, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",8.435721370255616e-05,node,12046807387,found,2026-04-21T09:58:57.708336+00:00
+"Ps Colom, 3, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:58:59.373788+00:00
+"Ps Fabra I Puig, 195, Vilapicina i la Torre Llobeta, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:01.385946+00:00
+"Pz Revolucio Setembre 1868, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:03.221424+00:00
+"Rambla CL Nou De La, 27, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:05.571297+00:00
+"Rambla CL Nou De La, 83, El Raval, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:08.024785+00:00
+"Rambla De Balmes, 19, Barcelona, Spain",41.5354698,2.2177227,"Rambla de Balmes, la Riera Seca, Mollet del Vallès, Vallès Oriental, Barcelona, Catalunya, 08100, España",0.05339471351186385,way,1240995773,found,2026-04-21T09:59:10.728397+00:00
+"Rambla De La Muntanya, 69, El Guinardó, Barcelona, Spain",41.4204289,2.1758616,"69, Rambla de la Muntanya, el Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08041, España",8.435721370255616e-05,node,7237254109,found,2026-04-21T09:59:12.281636+00:00
+"Rambla De Prim, 6, Barcelona, Spain",41.4120118,2.2194751,"6, Rambla de Prim, el Maresme, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",2.8699931334355954e-05,node,6753408244,found,2026-04-21T09:59:14.635942+00:00
+"Rambla La Rambla, 96, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:16.655763+00:00
+"Rambla La, 38, El Gòtic, Barcelona, Spain",41.3789919,2.1755738,"38, La Rambla, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España",8.435721370255616e-05,node,7642452426,found,2026-04-21T09:59:18.690444+00:00
+"Rambla Prim, 6, El Besòs, Barcelona, Spain",41.4188096,2.209939,"Rambla Prim, el Besòs, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",0.04008435721370259,way,1120533209,found,2026-04-21T09:59:20.472170+00:00
+"Rambla de Catalunya, 100, La Dreta de l'Eixample, Barcelona, Spain",41.3935425,2.1603166,"La Bodegueta, 100, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",8.435721370255616e-05,node,4212005694,found,2026-04-21T09:59:22.183485+00:00
+"Rambla de Catalunya, 107, La Dreta de l'Eixample, Barcelona, Spain",41.3937246,2.1595472,"107, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",8.435721370255616e-05,node,12020131841,found,2026-04-21T09:59:23.774348+00:00
+"Rambla de Catalunya, 127, La Dreta de l'Eixample, Barcelona, Spain",41.3949146,2.1579163,"127, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",8.435721370255616e-05,node,12020030597,found,2026-04-21T09:59:25.444904+00:00
+"Rambla de Catalunya, 29, La Dreta de l'Eixample, Barcelona, Spain",41.389157,2.1657244,"29, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,12021210228,found,2026-04-21T09:59:27.300179+00:00
+"Rambla de Catalunya, 5, La Dreta de l'Eixample, Barcelona, Spain",41.3876496,2.1678643,"5, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,12018660262,found,2026-04-21T09:59:29.009589+00:00
+"Rambla de Catalunya, 8, La Dreta de l'Eixample, Barcelona, Spain",41.3879323,2.1679996,"8, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,6251859257,found,2026-04-21T09:59:31.393026+00:00
+"Rambla de Guipúzcoa, 2, El Clot, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:34.264757+00:00
+"Rambla de Prim, 230, La Verneda i la Pau, Barcelona, Spain",41.4238689,2.203202,"230-228, Rambla de Prim, la Pau, la Verneda i la Pau, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08020, España",8.435721370255616e-05,node,6108942246,found,2026-04-21T09:59:36.149918+00:00
+"Rambla de Prim, 35, El Besòs, Barcelona, Spain",41.4173804,2.2115939,"Rambla de Prim, el Besòs, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",0.2328416436185146,way,525461175,found,2026-04-21T09:59:37.896875+00:00
+"Rambla de Prim, 6, El Besòs, Barcelona, Spain",41.4173804,2.2115939,"Rambla de Prim, el Besòs, el Besòs i el Maresme, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08019, España",0.2328416436185146,way,525461175,found,2026-04-21T09:59:39.635586+00:00
+"Rambla de Sant Josep, 82, El Gòtic, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:41.613552+00:00
+"Rambla de Volart, 39, El Guinardó, Barcelona, Spain",41.4164074,2.1776021,"39, Rambla de Volart, el Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08041, España",8.435721370255616e-05,node,6207908798,found,2026-04-21T09:59:43.236238+00:00
+"Rambla del Carmel, 64, El Carmel, Barcelona, Spain",41.423938,2.1578835,"64, Rambla del Carmel, el Carmel, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",8.435721370255616e-05,node,11927557330,found,2026-04-21T09:59:44.920233+00:00
+"Rambla del Raval, 41, El Raval, Barcelona, Spain",41.3782605,2.1703082,"41, Rambla del Raval, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",8.435721370255616e-05,node,7279915781,found,2026-04-21T09:59:46.657997+00:00
+"Rambla del Raval, 48, El Raval, Barcelona, Spain",41.3789313,2.1693708,"Rambla del Raval, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",0.23648094285300414,way,10851770,found,2026-04-21T09:59:48.492885+00:00
+"Rambla del Raval, 49, El Raval, Barcelona, Spain",41.3781115,2.1705171,"49, Rambla del Raval, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",8.435721370255616e-05,node,11983640271,found,2026-04-21T09:59:50.223062+00:00
+"Rb Prat, 14, Vila de Gràcia, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:53.495054+00:00
+"Riera Blanca, 57, Sants - Badal, Barcelona, Spain",41.3740574,2.1241186,"45, 57, Carrer de la Riera Blanca, la Torrassa, Sants-Badal, Sants-Montjuïc, Districte II, Barcelona, Barcelonès, Barcelona, Catalunya, 08903, España",6.354848554203125e-05,way,666196502,found,2026-04-21T09:59:55.270497+00:00
+"Riera De La Creu 54, 56, Barcelona, Spain",,,,,,,not_found,2026-04-21T09:59:57.800724+00:00
+"Riera De Tena, 42, Sants, Barcelona, Spain",41.3719134,2.1336228,"42, Carrer de la Riera de Tena, Sants, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España",8.435721370255616e-05,node,12003530112,found,2026-04-21T10:00:00.063957+00:00
+"Riera de Can Toda, 3, La Salut, Barcelona, Spain",41.4125396,2.1590096,"3, Riera de Can Toda, la Salut, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,11423151550,found,2026-04-21T10:00:02.102852+00:00
+"Ronda Sant Antoni, 21, Sant Antoni, Barcelona, Spain",41.3809411,2.1630923,"21, Ronda de Sant Antoni, Sant Antoni, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08011, España",8.435721370255616e-05,way,249404388,found,2026-04-21T10:00:03.922895+00:00
+"Ronda de la Universitat, 3, La Dreta de l'Eixample, Barcelona, Spain",41.386233,2.1650433,"3, Ronda de la Universitat, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,12018660263,found,2026-04-21T10:00:05.671964+00:00
+"Ronda del General Mitre, 105, Sant Gervasi - La Bonanova, Barcelona, Spain",41.4008206,2.1354999,"105, Ronda del General Mitre, Sant Gervasi, Sant Gervasi - la Bonanova, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08022, España",8.435721370255616e-05,node,12085146148,found,2026-04-21T10:00:07.389331+00:00
+"Ronda del General Mitre, 108, Sant Gervasi - Galvany, Barcelona, Spain",41.4010681,2.1363099,"108, Ronda del General Mitre, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08022, España",8.435721370255616e-05,node,12084051783,found,2026-04-21T10:00:09.176952+00:00
+"Ronda del General Mitre, 110, Sant Gervasi - Galvany, Barcelona, Spain",41.4011634,2.1364264,"110, Ronda del General Mitre, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08022, España",8.435721370255616e-05,node,12084051826,found,2026-04-21T10:00:10.973177+00:00
+"Ronda del Guinardó, 182, El Guinardó, Barcelona, Spain",41.4206265,2.177089,"184-182, Ronda del Guinardó, el Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08041, España",8.435721370255616e-05,node,11940298236,found,2026-04-21T10:00:12.871753+00:00
+"Ronda del Guinardó, 23, El Baix Guinardó, Barcelona, Spain",41.4123516,2.1632463,"23, Ronda del Guinardó, el Baix Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,11467343151,found,2026-04-21T10:00:15.257377+00:00
+"Ronda del Guinardó, 30, El Baix Guinardó, Barcelona, Spain",41.4116638,2.16415,"30-28, Ronda del Guinardó, el Baix Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,11467353525,found,2026-04-21T10:00:17.501785+00:00
+"Ronda del Guinardó, 75, El Baix Guinardó, Barcelona, Spain",41.4136567,2.1699209,"75, Ronda del Guinardó, el Baix Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08024, España",8.435721370255616e-05,node,6070315020,found,2026-04-21T10:00:19.301809+00:00
+"Rosalía de castro, 19, El Baix Guinardó, Barcelona, Spain",41.4106967,2.1708639,"El Cau de les Herbes, 19, Carrer de Rosalía de Castro, el Baix Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08025, España",8.435721370255616e-05,node,8795830142,found,2026-04-21T10:00:21.162895+00:00
+"Ruben Dario, 86, Sant Andreu, Barcelona, Spain",41.4346204,2.1852717,"86, Carrer de Rubén Darío, Sant Andreu de Palomar, Sant Andreu, Barcelona, Barcelonès, Barcelona, Catalunya, 08030, España",8.435721370255616e-05,node,6355999048,found,2026-04-21T10:00:23.250706+00:00
+"Rubio I Ors, 51, El Guinardó, Barcelona, Spain",41.4194325,2.1770359,"51, Carrer de Rubió i Ors, el Guinardó, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08041, España",8.435721370255616e-05,relation,9217742,found,2026-04-21T10:00:25.101155+00:00
+"Sancho de Ávila, 41, El Parc i la Llacuna del Poblenou, Barcelona, Spain",41.3986217,2.1896909,"41-45, Carrer de Sancho de Ávila, el Parc i la Llacuna del Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08018, España",8.435721370255616e-05,node,11957733163,found,2026-04-21T10:00:27.280234+00:00
+"Sant Sever, 2, El Gòtic, Barcelona, Spain",,,,,,,"error: ConnectTimeout: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Sant+Sever%2C+2%2C+El+G%C3%B2tic%2C+Barcelona%2C+Spain&format=jsonv2&limit=1&addressdetails=1&countrycodes=es (Caused by ConnectTimeoutError(<HTTPSConnection(host='nominatim.openstreetmap.org', port=443) at 0x2075c53d8d0>, 'Connection to nominatim.openstreetmap.org timed out. (connect timeout=30)'))",2026-04-21T10:00:49.421429+00:00
+"Travesía de Dalt, 30, Vila de Gràcia, Barcelona, Spain",,,,,,,"error: ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Traves%C3%ADa+de+Dalt%2C+30%2C+Vila+de+Gr%C3%A0cia%2C+Barcelona%2C+Spain&format=jsonv2&limit=1&addressdetails=1&countrycodes=es (Caused by NewConnectionError(""HTTPSConnection(host='nominatim.openstreetmap.org', port=443): Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine""))",2026-04-21T10:00:56.621861+00:00
+"Travesía de Gràcia, 181, Vila de Gràcia, Barcelona, Spain",,,,,,,"error: ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Traves%C3%ADa+de+Gr%C3%A0cia%2C+181%2C+Vila+de+Gr%C3%A0cia%2C+Barcelona%2C+Spain&format=jsonv2&limit=1&addressdetails=1&countrycodes=es (Caused by NameResolutionError(""HTTPSConnection(host='nominatim.openstreetmap.org', port=443): Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)""))",2026-04-21T10:00:57.726617+00:00
+"Travesía de Gràcia, 276, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,"error: ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Traves%C3%ADa+de+Gr%C3%A0cia%2C+276%2C+El+Camp+d%27En+Grassot+i+Gr%C3%A0cia+Nova%2C+Barcelona%2C+Spain&format=jsonv2&limit=1&addressdetails=1&countrycodes=es (Caused by NameResolutionError(""HTTPSConnection(host='nominatim.openstreetmap.org', port=443): Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)""))",2026-04-21T10:00:58.832301+00:00
+"Travesía de Gràcia, 337, El Camp d'En Grassot i Gràcia Nova, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:01.137754+00:00
+"Travesía de Gràcia, 360, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:03.503774+00:00
+"Travesía de Gràcia, 371, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:06.005819+00:00
+"Travesía de Gràcia, 445, El Baix Guinardó, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:08.265588+00:00
+"Travesía de les Corts, 126, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:10.314056+00:00
+"Travesía de les Corts, 13, La Maternitat i Sant Ramon, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:12.241263+00:00
+"Travesía de les Corts, 15 -19, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:14.231174+00:00
+"Travesía de les Corts, 176, Les Corts, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:17.096787+00:00
+"Valencia, 170, L'Antiga Esquerra de l'Eixample, Barcelona, Spain",41.3868723,2.155756,"170-168, Carrer de València, l'Antiga Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08036, España",8.435721370255616e-05,node,12148545250,found,2026-04-21T10:01:19.466682+00:00
+"Valencia, 282, La Dreta de l'Eixample, Barcelona, Spain",41.3935446,2.1646525,"Karina, 282, Carrer de València, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,6264547385,found,2026-04-21T10:01:21.367491+00:00
+"Via Augusta, 230, Sant Gervasi - Galvany, Barcelona, Spain",41.3979656,2.1384209,"230-228, Via Augusta, Galvany, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08021, España",8.435721370255616e-05,node,12084034636,found,2026-04-21T10:01:23.559096+00:00
+"Via Augusta, 244, Sant Gervasi - Galvany, Barcelona, Spain",41.3979588,2.1363568,"244, Via Augusta, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08021, España",8.435721370255616e-05,node,12084034638,found,2026-04-21T10:01:25.180312+00:00
+"Via Favència, 211, Les Roquetes, Barcelona, Spain",41.4455526,2.1763762,"211, Via Favència, les Roquetes, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08042, España",8.435721370255616e-05,node,6271995524,found,2026-04-21T10:01:27.034785+00:00
+"Via Favència, 272, Verdun, Barcelona, Spain",41.4450113,2.1765677,"272, Via Favència, Verdun, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08042, España",8.435721370255616e-05,node,12145758647,found,2026-04-21T10:01:29.129650+00:00
+"Via Júlia, 164, La Prosperitat, Barcelona, Spain",41.4448389,2.1793561,"164, Via Júlia, la Prosperitat, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08042, España",8.435721370255616e-05,node,12042537845,found,2026-04-21T10:01:30.799714+00:00
+"Via Júlia, 17, Verdun, Barcelona, Spain",41.4404151,2.1764832,"Via Júlia, Verdun, Nou Barris, Barcelona, Barcelonès, Barcelona, Catalunya, 08042, España",0.0534176905470359,way,237667629,found,2026-04-21T10:01:33.386437+00:00
+"Via Laietana, 12, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.383029,2.1801992,"The Burger Maker, 12, Via Laietana, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,5151532723,found,2026-04-21T10:01:35.012772+00:00
+"Via Laietana, 4, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3822081,2.1812194,"4, Via Laietana, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,7691047011,found,2026-04-21T10:01:36.751899+00:00
+"Via Laietana, 46, Sant Pere - Santa Caterina i la Ribera, Barcelona, Spain",41.3864241,2.1756388,"46, Via Laietana, Santa Caterina, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",8.435721370255616e-05,node,7646327480,found,2026-04-21T10:01:38.463009+00:00
+"de Catalunya, 29, La Dreta de l'Eixample, Barcelona, Spain",41.389157,2.1657244,"29, Rambla de Catalunya, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,12021210228,found,2026-04-21T10:01:42.166729+00:00
+"de Fontanella, 13, La Dreta de l'Eixample, Barcelona, Spain",41.3880036,2.1721981,"13, Carrer de Fontanella, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",8.435721370255616e-05,node,11930103440,found,2026-04-21T10:01:45.245571+00:00
+"de Loreto, 24, Les Corts, Barcelona, Spain",41.389919,2.1424208,"Taberna del Bierzo, 24-26, Carrer de Loreto, les Corts, Barcelona, Barcelonès, Barcelona, Catalunya, 08029, España",8.435721370255616e-05,node,4868484522,found,2026-04-21T10:01:47.078311+00:00
+"de Palomar, 70, Sant Andreu, Barcelona, Spain",41.4340722,2.188966,"Sant Andreu de Palomar, Sant Andreu, Barcelona, Barcelonès, Barcelona, Catalunya, 08030, España",0.449514150372869,relation,4149391,found,2026-04-21T10:01:50.597309+00:00
+"de la Mare de Déu de Montserrat, 4, La Salut, Barcelona, Spain",,,,,,,not_found,2026-04-21T10:01:52.578073+00:00
+"diputació, 235, La Dreta de l'Eixample, Barcelona, Spain",41.3885046,2.1643468,"235, Carrer de la Diputació, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",8.435721370255616e-05,node,12021265065,found,2026-04-21T10:01:54.333360+00:00
+"queixans, 3, El Carmel, Barcelona, Spain",41.420226,2.1584808,"3, Carrer de Queixans, el Carmel, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",8.435721370255616e-05,node,11927039168,found,2026-04-21T10:01:55.969107+00:00
